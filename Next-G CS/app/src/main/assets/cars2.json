@@ -1,0 +1,97 @@
+[
+  {
+    "id": 100,
+    "owner":{"name":"admin","id":1},
+    "custom_name":"brum brum",
+    "users": [[{"name":"brat","id":4}],[
+      {"name":"mama","id":2},
+      {"name":"tata","id":3}
+    ]],
+    "available": true,
+    "info":{
+      "color": "gold",
+      "brand":"Mercedes",
+      "model":"CLA Shooting Brake",
+      "license_plate": "KR 123"
+    }
+  },
+  {
+    "id": 101,
+    "owner":{"name":"admin","id":1},
+    "custom_name":"Passacik",
+    "users": [[ ],[ {"name":"mama","id":2} ]],
+    "available": true,
+    "info":{
+      "color": "silver",
+      "brand":"Volkswagen",
+      "model":"Passat",
+      "license_plate": "KRA 1111E"
+    }
+  },
+  {
+    "id": 102,
+    "owner":{"name":"user1","id":2},
+    "custom_name":"Beemka",
+    "users": [[{"name":"ad","id":1}],[]],
+    "available": false,
+    "info":{
+      "color": "silver",
+      "brand":"BMW",
+      "model":"X5",
+      "license_plate": "KBR 431B"
+    }
+  },
+  {
+    "id": 103,
+    "owner":{"name":"user1","id":2},
+    "custom_name":"Fordzik",
+    "users": [[{"name":"ad","id":1}],[ ]],
+    "available": true,
+    "info":{
+      "color": "silver",
+      "brand":"Ford",
+      "model":"Focus",
+      "license_plate": "KRA 451B"
+    }
+  },
+  {
+    "id": 104,
+    "owner":{"name":"user2","id":3},
+    "custom_name":"Opelek",
+    "users": [[],[{"name":"ad","id":1}] ],
+    "available": true,
+    "info":{
+      "color": "red",
+      "brand":"Opel",
+      "model":"Astra",
+      "license_plate": "KR 821C"
+    }
+  },
+  {
+    "id": 105,
+    "owner":{"name":"user3","id":4},
+    "custom_name":"Audica",
+    "users": [ [], [{"name":"ad","id":1} ]],
+    "available": false,
+    "info":{
+      "color": "orange",
+      "brand":"Audi",
+      "model":"A6",
+      "license_plate": "RZ 931D"
+    }
+  },
+  {
+    "id": 106,
+    "owner":{"name":"user3","id":4},
+    "custom_name":"KIA",
+    "users": [[{"name":"ad","id":1}
+    ],[]],
+    "available": false,
+    "info":{
+      "color": "red",
+      "brand":"KIA",
+      "model":"Stinger",
+      "license_plate": "RPZ 84E4"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "username":"admin",
+    "id":1,
+    "phone":"211 350 909",
+    "Cars": {
+      "owned": [
+        100,
+        101
+      ],
+      "admined": [
+        102
+      ],
+      "used": []
+    }
+  },
+  {
+  "username":"user1",
+  "id":2,
+  "phone":"537 556 102",
+    "Cars": {
+      "owned": [
+        102
+      ],
+      "admined": [],
+      "used": [
+        100,
+        101
+      ]
+    }
+  },
+  {
+    "username":"user2",
+    "id":3,
+    "phone":"608 051 017",
+    "Cars": {
+      "owned": [],
+      "admined": [],
+      "used": [
+        100
+      ]
+    }
+  },
+  {
+    "username":"user3",
+    "id":4,
+    "phone":"608 051 017",
+    "Cars": {
+      "owned": [],
+      "admined": [
+        100
+      ],
+      "used": []
+    }
+  }
+]
