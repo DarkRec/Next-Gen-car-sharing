@@ -1,6 +1,4 @@
-# Hackagh_2023 - Next-Gen Car Sharing
-> This is an amazing project for Next-Gen Car Sharing.
-
+Next-Gen Car Sharing - app
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
